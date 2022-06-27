@@ -42,13 +42,13 @@ Part II: Acceleration and Advanced Applications
 </ul>
 Jupyter Notebooks:
 <ul>
-<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/">1 The Manipulator Hessian  </a></li>
-<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/">2 Higher Order Derivatives  </a></li>
-<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/">3 Analytic Forms  </a></li>
-<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/">4 Null-Space Projection for Motion Control  </a></li>
-<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/">5 Quadratic Programming for Motion Control  </a></li>
-<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/">6 Advanced Numerical Inverse Kinematics  </a></li>
-<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/">7 Quadratic-Rate Motion Control  </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/1%20The%20Manipulator%20Hessian.ipynb">1 The Manipulator Hessian  </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/2%20Higher%20Order%20Derivatives.ipynb">2 Higher Order Derivatives  </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/3%20Analytic%20Forms.ipynb">3 Analytic Forms  </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/4%20Null-Space%20Projection%20for%20Motion%20Control.ipynb">4 Null-Space Projection for Motion Control  </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/5%20Quadratic%20Programming%20for%20Motion%20Control.ipynb">5 Quadratic Programming for Motion Control  </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/6%20Advanced%20Numerical%20Inverse%20Kinematics.ipynb">6 Advanced Numerical Inverse Kinematics  </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/7%20Quadratic-Rate%20Motion%20Control.ipynb">7 Quadratic-Rate Motion Control  </a></li>
 </ul>
 </td>
 </tr>
@@ -191,11 +191,11 @@ For the fastest and smoothest experience, it is recommended to run the Notebooks
 
 | Notebook                           | Link                  |
 | ---------------------------------- | --------------------- |
-| 1 The Manipulator Hessian | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/1%20Manipulator%20Kinematics.ipynb) |
-| 2 Higher Order Derivatives | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/2%20The%20Manipulator%20Jacobian.ipynb) | 
-| 3 Analytic Forms | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/2%20The%20Manipulator%20Jacobian.ipynb) | 
+| 1 The Manipulator Hessian | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/1%20The%20Manipulator%20Hessian.ipynb) |
+| 2 Higher Order Derivatives | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/2%20Higher%20Order%20Derivatives.ipynb) | 
+| 3 Analytic Forms | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/3%20Analytic%20Forms.ipynb) | 
 | 4 Null-Space Projection for Motion Control | Will not run on Colab |
 | 5 Quadratic Programming for Motion Control | Will not run on Colab | 
-| 6 Advanced Numerical Inverse Kinematics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/5%20Manipulator%20Performance%20Measures.ipynb) |
+| 6 Advanced Numerical Inverse Kinematics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/6%20Advanced%20Numerical%20Inverse%20Kinematics.ipynb) |
 | 7 Quadratic-Rate Motion Control | Will not run on Colab |
 
