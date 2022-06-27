@@ -9,7 +9,7 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
 <table style="border:0px">
 <tr style="border:0px">
 <td style="border:0px">
-<img src="./img/article1.png" width="250">
+<img src="https://github.com/jhavl/dkt/raw/main/img/article1.png" width="250">
 </td>
 <td style="border:0px">
 Part I: Kinematics, Velocity, and Applications
@@ -19,11 +19,11 @@ Part I: Kinematics, Velocity, and Applications
 </ul>
 Jupyter Notebooks:
 <ul>
-<li><a href="./Part 1/1 Manipulator Kinematics.ipynb">1 Manipulator Kinematics </a></li>
-<li><a href="./Part 1/2 The Manipulator Jacobian.ipynb">2 The Manipulator Jacobian </a></li>
-<li><a href="./Part 1/3 Resolved-Rate Motion Control.ipynb">3 Resolved-Rate Motion Control </a></li>
-<li><a href="./Part 1/4 Numerical Inverse Kinematics.ipynb">4 Numerical Inverse Kinematics </a></li>
-<li><a href="./Part 1/5 Manipulator Performance Measures.ipynb">5 Manipulator Performance Measures </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%201/1%20Manipulator%20Kinematics.ipynb">1 Manipulator Kinematics </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%201/2%20The%20Manipulator%20Jacobian.ipynb">2 The Manipulator Jacobian </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%201/3%20Resolved-Rate%20Motion%20Control.ipynb">3 Resolved-Rate Motion Control </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%201/4%20Numerical%20Inverse%20Kinematics.ipynb">4 Numerical Inverse Kinematics </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%201/5%20Manipulator%20Performance%20Measures.ipynb">5 Manipulator Performance Measures </a></li>
 </ul>
 </td>
 </tr>
@@ -32,7 +32,7 @@ Jupyter Notebooks:
 <table style="border:0px">
 <tr style="border:0px">
 <td style="border:0px">
-<img src="./img/article1.png" width="250">
+<img src="https://github.com/jhavl/dkt/raw/main/img/article2.png" width="250">
 </td>
 <td style="border:0px">
 Part II: Acceleration and Advanced Applications
@@ -42,13 +42,13 @@ Part II: Acceleration and Advanced Applications
 </ul>
 Jupyter Notebooks:
 <ul>
-<li><a href="">1 The Manipulator Hessian  </a></li>
-<li><a href="">2 Higher Order Derivatives  </a></li>
-<li><a href="">3 Analytic Forms  </a></li>
-<li><a href="">4 Null-Space Projection for Motion Control  </a></li>
-<li><a href="">5 Quadratic Programming for Motion Control  </a></li>
-<li><a href="">6 Advanced Numerical Inverse Kinematics  </a></li>
-<li><a href="">7 Quadratic-Rate Motion Control  </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/">1 The Manipulator Hessian  </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/">2 Higher Order Derivatives  </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/">3 Analytic Forms  </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/">4 Null-Space Projection for Motion Control  </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/">5 Quadratic Programming for Motion Control  </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/">6 Advanced Numerical Inverse Kinematics  </a></li>
+<li><a href="https://github.com/jhavl/dkt/blob/main/Part%202/">7 Quadratic-Rate Motion Control  </a></li>
 </ul>
 </td>
 </tr>
