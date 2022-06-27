@@ -1,0 +1,32 @@
+/* div {
+    max-width: 900px !important;
+    text-align: justify;
+} */
+
+
+/* .inner_cell {
+    max-width: 900px !important;
+    text-align: justify;
+} */
+
+.cell {
+    /* max-width: 900px !important; */
+    /* line-height: 1.6em; */
+    padding-bottom: 15px;
+    text-align: justify;
+}
+
+.markup {
+    max-width: 900px !important;
+    text-align: justify;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* αt */
+/* βt */
+/* γt */
