@@ -14,8 +14,8 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
 <td style="border:0px">
 Part I: Kinematics, Velocity, and Applications
 <ul>
-<li><a href="https://github.com/jhavl/TODO">Access PDF from Arxiv </a></li>
-<li><a href="https://github.com/jhavl/TODO">Web Page Version</a></li>
+<li><a href="https://github.com/jhavl/TODO">Access Article PDF from Arxiv </a></li>
+<li><a href="https://github.com/jhavl/TODO">Web Page Version of Article</a></li>
 </ul>
 Jupyter Notebooks:
 <ul>
@@ -37,8 +37,8 @@ Jupyter Notebooks:
 <td style="border:0px">
 Part II: Acceleration and Advanced Applications
 <ul>
-<li><a href="https://github.com/jhavl/TODO">Access PDF from Arxiv </a></li>
-<li><a href="https://github.com/jhavl/TODO">Web Page Version</a></li>
+<li><a href="https://github.com/jhavl/TODO">Access Article PDF from Arxiv </a></li>
+<li><a href="https://github.com/jhavl/TODO">Web Page Version of Article</a></li>
 </ul>
 Jupyter Notebooks:
 <ul>
@@ -60,7 +60,9 @@ Jupyter Notebooks:
 
 - [Synopsis](#1)
 - [Python Setup Guide](#2)
-- [Running Notebooks](#1)
+- [Running Notebooks Locally](#3)
+- [Running Notebooks on Google Colab](#4)
+
 
 <br>
 
@@ -171,4 +173,29 @@ Once a Notebook is open, you must select the kernel from the `Select Kernel` but
 
 <a id='4'></a>
 
-## Running Notebooks Online
+## Running Notebooks on Google Colab
+
+For the fastest and smoothest experience, it is recommended to run the Notebooks locally. However, most Notebooks can be run online on the Google Colab platform. Click the links in the table below to open on Google Colab:
+
+### Part 1
+
+| Notebook                           | Link                  |
+| ---------------------------------- | --------------------- |
+| 1 Manipulator Kinematics           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/1%20Manipulator%20Kinematics.ipynb) |
+| 2 The Manipulator Jacobian         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/2%20The%20Manipulator%20Jacobian.ipynb) | 
+| 3 Resolved-Rate Motion Control     | Will not run on Colab |
+| 4 Numerical Inverse Kinematics     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/4%20Numerical%20Inverse%20Kinematics.ipynb) |
+| 5 Manipulator Performance Measures | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/5%20Manipulator%20Performance%20Measures.ipynb) | 
+
+### Part 2
+
+| Notebook                           | Link                  |
+| ---------------------------------- | --------------------- |
+| 1 The Manipulator Hessian | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/1%20Manipulator%20Kinematics.ipynb) |
+| 2 Higher Order Derivatives | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/2%20The%20Manipulator%20Jacobian.ipynb) | 
+| 3 Analytic Forms | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/2%20The%20Manipulator%20Jacobian.ipynb) | 
+| 4 Null-Space Projection for Motion Control | Will not run on Colab |
+| 5 Quadratic Programming for Motion Control | Will not run on Colab | 
+| 6 Advanced Numerical Inverse Kinematics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/5%20Manipulator%20Performance%20Measures.ipynb) |
+| 7 Quadratic-Rate Motion Control | Will not run on Colab |
+
