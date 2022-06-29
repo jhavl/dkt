@@ -330,5 +330,4 @@ and for Part II:
 
 This research was supported by the Queensland University of Technology Centre for Robotics ([QCR](https://research.qut.edu.au/qcr/)).
 
-![thanks](https://github.com/jhavl/dkt/raw/main/img/qcr.png)
-
+<img src="https://github.com/jhavl/dkt/raw/main/img/qcr.png" width="600">
