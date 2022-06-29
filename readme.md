@@ -8,53 +8,174 @@
 
 This repository contains a collection of Jupyter Notebooks designed to accompany the two-part Tutorial on Manipulator Differential Kinematics, where each Notebook corresponds to a Section within the Tutorial articles. The notebooks are easily extensible to encourage experimentation. The intention is that you read a Section of the Tutorial and then complete the corresponding Notebook. The articles can be accessed via PDF or rendered as HTML as shown below.
 
+<style>
+.btn {
+    text-align: center;
+    vertical-align: middle;
+}
+</style>
+
 <table style="border:0px">
 <tr style="border:0px">
-<td style="border:0px">
-<img src="https://github.com/jhavl/dkt/raw/main/img/article1.png" width="290">
-</td>
-<td style="border:0px">
-<b>Part I: Kinematics, Velocity, and Applications</b>
-<ul>
-<li><a href="https://github.com/jhavl/TODO">Access Article PDF from Arxiv </a></li>
-<li><a href="https://github.com/jhavl/TODO">Web Page Version of Article</a></li>
-</ul>
-
-| Jupyter Notebooks | Open in Colab Link                  |
-| ---------------------------------- | --------------------- |
-| <a href="https://github.com/jhavl/dkt/blob/main/Part%201/1%20Manipulator%20Kinematics.ipynb">1 Manipulator Kinematics </a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/1%20Manipulator%20Kinematics.ipynb) |
-| <a href="https://github.com/jhavl/dkt/blob/main/Part%201/2%20The%20Manipulator%20Jacobian.ipynb">2 The Manipulator Jacobian </a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/2%20The%20Manipulator%20Jacobian.ipynb) | 
-| <a href="https://github.com/jhavl/dkt/blob/main/Part%201/3%20Resolved-Rate%20Motion%20Control.ipynb">3 Resolved-Rate Motion Control </a> | Will not run on Colab |
-| <a href="https://github.com/jhavl/dkt/blob/main/Part%201/4%20Numerical%20Inverse%20Kinematics.ipynb">4 Numerical Inverse Kinematics </a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/4%20Numerical%20Inverse%20Kinematics.ipynb) |
-| <a href="https://github.com/jhavl/dkt/blob/main/Part%201/5%20Manipulator%20Performance%20Measures.ipynb">5 Manipulator Performance Measures </a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/5%20Manipulator%20Performance%20Measures.ipynb) | 
-
-</td>
+    <td style="border:0px">
+        <img src="https://github.com/jhavl/dkt/raw/main/img/article1.png" width="260">
+    </td>
+    <td style="border:0px">
+        <b>Part I: Kinematics, Velocity, and Applications</b>
+        <ul>
+            <li>
+                <a href="https://github.com/jhavl/TODO">Access Article PDF from Arxiv </a>
+            </li>
+            <li>
+                <a href="https://github.com/jhavl/TODO">Web Page Version of Article</a>
+            </li>
+        </ul>
+        <table>
+            <tr>
+                <th>Jupyter Notebooks</th>
+                <th>Open in Colab Link</th>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/jhavl/dkt/blob/main/Part%201/1%20Manipulator%20Kinematics.ipynb">1 Manipulator Kinematics </a>
+                </td>
+                <td class="btn">
+                    <a href="https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/1%20Manipulator%20Kinematics.ipynb">
+                        <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg" />
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/jhavl/dkt/blob/main/Part%201/2%20The%20Manipulator%20Jacobian.ipynb">2 The Manipulator Jacobian </a>
+                </td>
+                <td class="btn">
+                    <a href="https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/2%20The%20Manipulator%20Jacobian.ipynb">
+                        <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg" />
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/jhavl/dkt/blob/main/Part%201/3%20Resolved-Rate%20Motion%20Control.ipynb">3 Resolved-Rate Motion Control </a>
+                </td>
+                <td class="btn">
+                    Will not run on Colab
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/jhavl/dkt/blob/main/Part%201/4%20Numerical%20Inverse%20Kinematics.ipynb">4 Numerical Inverse Kinematics </a>
+                </td>
+                <td class="btn">
+                    <a href="(https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/4%20Numerical%20Inverse%20Kinematics.ipynb)">
+                        <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg" />
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/jhavl/dkt/blob/main/Part%201/5%20Manipulator%20Performance%20Measures.ipynb">5 Manipulator Performance Measures </a>
+                </td>
+                <td class="btn">
+                    <a href="https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/5%20Manipulator%20Performance%20Measures.ipynb">
+                        <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg" />
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </td>
 </tr>
 </table>
 
+
+
 <table style="border:0px">
 <tr style="border:0px">
-<td style="border:0px">
-<img src="https://github.com/jhavl/dkt/raw/main/img/article2.png" width="290">
-</td>
-<td style="border:0px">
-<b>Part II: Acceleration and Advanced Applications</b>
-<ul>
-<li><a href="https://github.com/jhavl/TODO">Access Article PDF from Arxiv </a></li>
-<li><a href="https://github.com/jhavl/TODO">Web Page Version of Article</a></li>
-</ul>
-
-| Jupyter Notebooks                  | Open in Colab Link                     |
-| ---------------------------------- | --------------------- |
-| <a href="https://github.com/jhavl/dkt/blob/main/Part%202/1%20The%20Manipulator%20Hessian.ipynb">1 The Manipulator Hessian  </a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/1%20The%20Manipulator%20Hessian.ipynb) |
-| <a href="https://github.com/jhavl/dkt/blob/main/Part%202/2%20Higher%20Order%20Derivatives.ipynb">2 Higher Order Derivatives  </a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/2%20Higher%20Order%20Derivatives.ipynb) | 
-| <a href="https://github.com/jhavl/dkt/blob/main/Part%202/3%20Analytic%20Forms.ipynb">3 Analytic Forms  </a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/3%20Analytic%20Forms.ipynb) | 
-| <a href="https://github.com/jhavl/dkt/blob/main/Part%202/4%20Null-Space%20Projection%20for%20Motion%20Control.ipynb">4 Null-Space Projection for Motion Control  </a> | Will not run on Colab |
-| <a href="https://github.com/jhavl/dkt/blob/main/Part%202/5%20Quadratic%20Programming%20for%20Motion%20Control.ipynb">5 Quadratic Programming for Motion Control  </a> | Will not run on Colab | 
-| <a href="https://github.com/jhavl/dkt/blob/main/Part%202/6%20Advanced%20Numerical%20Inverse%20Kinematics.ipynb">6 Advanced Numerical Inverse Kinematics  </a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/6%20Advanced%20Numerical%20Inverse%20Kinematics.ipynb) |
-| <a href="https://github.com/jhavl/dkt/blob/main/Part%202/7%20Quadratic-Rate%20Motion%20Control.ipynb">7 Quadratic-Rate Motion Control  </a> | Will not run on Colab |
-
-</td>
+    <td style="border:0px">
+        <img src="https://github.com/jhavl/dkt/raw/main/img/article2.png" width="260">
+    </td>
+    <td style="border:0px">
+        <b>Part II: Acceleration and Advanced Applications</b>
+        <ul>
+            <li>
+                <a href="https://github.com/jhavl/TODO">Access Article PDF from Arxiv </a>
+            </li>
+            <li>
+                <a href="https://github.com/jhavl/TODO">Web Page Version of Article</a>
+            </li>
+        </ul>
+        <table>
+            <tr>
+                <th>Jupyter Notebooks</th>
+                <th>Open in Colab Link</th>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/jhavl/dkt/blob/main/Part%202/1%20The%20Manipulator%20Hessian.ipynb">1 The Manipulator Hessian  </a>
+                </td>
+                <td class="btn">
+                    <a href="https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/1%20The%20Manipulator%20Hessian.ipynb">
+                        <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg" />
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/jhavl/dkt/blob/main/Part%202/2%20Higher%20Order%20Derivatives.ipynb">2 Higher Order Derivatives  </a>
+                </td>
+                <td class="btn">
+                    <a href="https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/2%20Higher%20Order%20Derivatives.ipynb">
+                        <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg" />
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/jhavl/dkt/blob/main/Part%202/3%20Analytic%20Forms.ipynb">3 Analytic Forms  </a>
+                </td>
+                <td class="btn">
+                    <a href="https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/3%20Analytic%20Forms.ipynb">
+                        <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg" />
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/jhavl/dkt/blob/main/Part%202/4%20Null-Space%20Projection%20for%20Motion%20Control.ipynb">4 Null-Space Projection for Motion Control  </a>
+                </td>
+                <td class="btn">
+                    Will not run on Colab
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/jhavl/dkt/blob/main/Part%202/5%20Quadratic%20Programming%20for%20Motion%20Control.ipynb">5 Quadratic Programming for Motion Control  </a>
+                </td>
+                <td>
+                    Will not run on Colab
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/jhavl/dkt/blob/main/Part%202/6%20Advanced%20Numerical%20Inverse%20Kinematics.ipynb">6 Advanced Numerical Inverse Kinematics  </a>
+                </td>
+                <td class="btn">
+                    <a href="https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/6%20Advanced%20Numerical%20Inverse%20Kinematics.ipynb">
+                        <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg" />
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/jhavl/dkt/blob/main/Part%202/7%20Quadratic-Rate%20Motion%20Control.ipynb">7 Quadratic-Rate Motion Control  </a>
+                </td>
+                <td class="btn">
+                    Will not run on Colab
+                </td>
+            </tr>
+        </table>
+    </td>
 </tr>
 </table>
 
