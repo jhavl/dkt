@@ -19,9 +19,9 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
             <li>
                 <a href="https://github.com/jhavl/TODO">Access Article PDF from Arxiv </a>
             </li>
-            <li>
+            <!-- <li>
                 <a href="https://github.com/jhavl/TODO">Web Page Version of Article</a>
-            </li>
+            </li> -->
         </ul>
         <table>
             <tr>
@@ -92,9 +92,9 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
             <li>
                 <a href="https://github.com/jhavl/TODO">Access Article PDF from Arxiv </a>
             </li>
-            <li>
+            <!-- <li>
                 <a href="https://github.com/jhavl/TODO">Web Page Version of Article</a>
-            </li>
+            </li> -->
         </ul>
         <table>
             <tr>
@@ -178,6 +178,8 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
 - [Python Setup Guide](#2)
 - [Running Notebooks Locally](#3)
 - [Running Notebooks on Google Colab](#4)
+- [Citation Info](#5)
+- [Acknowledgements](#6)
 
 <br>
 
@@ -292,24 +294,41 @@ Once a Notebook is open, you must select the kernel from the `Select Kernel` but
 
 For the fastest and smoothest experience, it is recommended to run the Notebooks locally. However, most Notebooks can be run online on the Google Colab platform. Click the links in the table at the top of the page to open a Notebook in Colab.
 
-<!-- ### Part 1
 
-| Notebook                           | Link                  |
-| ---------------------------------- | --------------------- |
-| 1 Manipulator Kinematics           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/1%20Manipulator%20Kinematics.ipynb) |
-| 2 The Manipulator Jacobian         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/2%20The%20Manipulator%20Jacobian.ipynb) |
-| 3 Resolved-Rate Motion Control     | Will not run on Colab |
-| 4 Numerical Inverse Kinematics     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/4%20Numerical%20Inverse%20Kinematics.ipynb) |
-| 5 Manipulator Performance Measures | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/5%20Manipulator%20Performance%20Measures.ipynb) |
+<br>
 
-### Part 2
+<a id='5'></a>
 
-| Notebook                           | Link                  |
-| ---------------------------------- | --------------------- |
-| 1 The Manipulator Hessian | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/1%20The%20Manipulator%20Hessian.ipynb) |
-| 2 Higher Order Derivatives | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/2%20Higher%20Order%20Derivatives.ipynb) |
-| 3 Analytic Forms | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/3%20Analytic%20Forms.ipynb) |
-| 4 Null-Space Projection for Motion Control | Will not run on Colab |
-| 5 Quadratic Programming for Motion Control | Will not run on Colab |
-| 6 Advanced Numerical Inverse Kinematics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%202/6%20Advanced%20Numerical%20Inverse%20Kinematics.ipynb) |
-| 7 Quadratic-Rate Motion Control | Will not run on Colab | -->
+## Citation Info
+
+Please cite us if you use this work in your research, for Part I:
+
+```
+@article{haviland2022dkt1,
+  author={J. {Haviland} and P. {Corke}},
+  title={Manipulator Differential Kinematics Part I: Kinematics, Velocity, and Applications},
+  journal={arXiv preprint},
+  year={2022}
+}
+```
+and for Part II:
+```
+@article{haviland2022dkt2,
+  author={J. {Haviland} and P. {Corke}},
+  title={Manipulator Differential Kinematics Part II: Acceleration and Advanced Applications},
+  journal={arXiv preprint},
+  year={2022}
+}
+```
+
+
+<br>
+
+<a id='6'></a>
+
+## Acknowledgements
+
+This research was supported by the Queensland University of Technology Centre for Robotics ([QCR](https://research.qut.edu.au/qcr/)).
+
+![thanks](https://github.com/jhavl/dkt/raw/main/img/qcr.png)
+
