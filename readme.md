@@ -1,5 +1,6 @@
 # A Tutorial on Manipulator Differential Kinematics
 
+[![Powered by the Robotics Toolbox](https://raw.githubusercontent.com/petercorke/robotics-toolbox-python/master/.github/svg/rtb_powered.min.svg)](https://github.com/petercorke/robotics-toolbox-python)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/roboticstoolbox-python.svg)
 [![QUT Centre for Robotics Open Source](https://github.com/qcr/qcr.github.io/raw/master/misc/badge.svg)](https://qcr.github.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -11,13 +12,13 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
 <table style="border:0px">
 <tr style="border:0px">
     <td style="border:0px">
-        <img src="https://github.com/jhavl/dkt/raw/main/img/article1.png" width="260">
+        <a href="https://bit.ly/3P37X4v"><img src="https://github.com/jhavl/dkt/raw/main/img/article1.png" width="260"></a>
     </td>
     <td style="border:0px">
         <b>Part I: Kinematics, Velocity, and Applications</b>
         <ul>
             <li>
-                <a href="https://github.com/jhavl/TODO">Access Article PDF from Arxiv </a>
+                <a href="https://bit.ly/3P37X4v">Access Article PDF from Arxiv </a>
             </li>
             <!-- <li>
                 <a href="https://github.com/jhavl/TODO">Web Page Version of Article</a>
@@ -84,13 +85,13 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
 <table style="border:0px">
 <tr style="border:0px">
     <td style="border:0px">
-        <img src="https://github.com/jhavl/dkt/raw/main/img/article2.png" width="260">
+        <a href="https://bit.ly/3bPKu8v"><img src="https://github.com/jhavl/dkt/raw/main/img/article2.png" width="260"> </a>
     </td>
     <td style="border:0px">
         <b>Part II: Acceleration and Advanced Applications</b>
         <ul>
             <li>
-                <a href="https://github.com/jhavl/TODO">Access Article PDF from Arxiv </a>
+                <a href="https://bit.ly/3bPKu8v">Access Article PDF from Arxiv </a>
             </li>
             <!-- <li>
                 <a href="https://github.com/jhavl/TODO">Web Page Version of Article</a>
@@ -236,7 +237,7 @@ pip install ipython notebook
 Install the Robotics Toolbox for Python and associated packages. This will also install other requirements such as Swift and Spatialmath-Python.
 
 ```bash
-pip install "roboticstoolbox-python>=1.0.1"
+pip install "roboticstoolbox-python>=1.0.2"
 ```
 
 For Notebooks in Part II we need `sympy` and `qpsolvers`
