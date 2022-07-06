@@ -62,7 +62,7 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
                     <a href="https://github.com/jhavl/dkt/blob/main/Part%201/4%20Numerical%20Inverse%20Kinematics.ipynb">4 Numerical Inverse Kinematics </a>
                 </td>
                 <td style="text-align: center; vertical-align: middle;">
-                    <a href="(https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/4%20Numerical%20Inverse%20Kinematics.ipynb)">
+                    <a href="https://colab.research.google.com/github/jhavl/dkt/blob/main/Part%201/4%20Numerical%20Inverse%20Kinematics.ipynb">
                         <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg" />
                     </a>
                 </td>
