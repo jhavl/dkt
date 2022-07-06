@@ -243,7 +243,7 @@ pip install "roboticstoolbox-python>=1.0.2"
 For Notebooks in Part II we need `sympy` and `qpsolvers`
 
 ```bash
-pip install sympy qpsolvers
+pip install sympy qpsolvers[quadprog]
 ```
 
 <br>
@@ -295,7 +295,6 @@ Once a Notebook is open, you must select the kernel from the `Select Kernel` but
 
 For the fastest and smoothest experience, it is recommended to run the Notebooks locally. However, most Notebooks can be run online on the Google Colab platform. Click the links in the table at the top of the page to open a Notebook in Colab.
 
-
 <br>
 
 <a id='5'></a>
@@ -312,7 +311,9 @@ Please cite us if you use this work in your research, for Part I:
   year={2022}
 }
 ```
+
 and for Part II:
+
 ```
 @article{haviland2022dkt2,
   author={J. {Haviland} and P. {Corke}},
@@ -321,7 +322,6 @@ and for Part II:
   year={2022}
 }
 ```
-
 
 <br>
 
