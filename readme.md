@@ -12,13 +12,13 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
 <table style="border:0px">
 <tr style="border:0px">
     <td style="border:0px">
-        <img src="https://github.com/jhavl/dkt/raw/main/img/article1.png" width="260">
+        <a href="https://bit.ly/3P37X4v"><img src="https://github.com/jhavl/dkt/raw/main/img/article1.png" width="260"></a>
     </td>
     <td style="border:0px">
         <b>Part I: Kinematics, Velocity, and Applications</b>
         <ul>
             <li>
-                <a href="https://github.com/jhavl/TODO">Access Article PDF from Arxiv </a>
+                <a href="https://bit.ly/3P37X4v">Access Article PDF from Arxiv </a>
             </li>
             <!-- <li>
                 <a href="https://github.com/jhavl/TODO">Web Page Version of Article</a>
@@ -85,13 +85,13 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
 <table style="border:0px">
 <tr style="border:0px">
     <td style="border:0px">
-        <img src="https://github.com/jhavl/dkt/raw/main/img/article2.png" width="260">
+        <a href="https://bit.ly/3bPKu8v"><img src="https://github.com/jhavl/dkt/raw/main/img/article2.png" width="260"> </a>
     </td>
     <td style="border:0px">
         <b>Part II: Acceleration and Advanced Applications</b>
         <ul>
             <li>
-                <a href="https://github.com/jhavl/TODO">Access Article PDF from Arxiv </a>
+                <a href="https://bit.ly/3bPKu8v">Access Article PDF from Arxiv </a>
             </li>
             <!-- <li>
                 <a href="https://github.com/jhavl/TODO">Web Page Version of Article</a>
