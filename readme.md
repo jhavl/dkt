@@ -307,7 +307,7 @@ Please cite us if you use this work in your research, for Part I:
 @article{haviland2022dkt1,
   author={J. {Haviland} and P. {Corke}},
   title={Manipulator Differential Kinematics Part I: Kinematics, Velocity, and Applications},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2207.01796},
   year={2022}
 }
 ```
@@ -318,7 +318,7 @@ and for Part II:
 @article{haviland2022dkt2,
   author={J. {Haviland} and P. {Corke}},
   title={Manipulator Differential Kinematics Part II: Acceleration and Advanced Applications},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2207.01794},
   year={2022}
 }
 ```
