@@ -7,7 +7,7 @@
 
 **By Jesse Haviland and Peter Corke**
 
-This repository contains a collection of Jupyter Notebooks designed to accompany the two-part Tutorial on Manipulator Differential Kinematics, where each Notebook corresponds to a Section within the Tutorial articles. The notebooks are easily extensible to encourage experimentation. The intention is that you read a Section of the Tutorial and then complete the corresponding Notebook. The articles can be accessed via PDF or rendered as HTML as shown below.
+This repository contains a collection of Jupyter Notebooks designed to accompany the two-part Tutorial on Manipulator Differential Kinematics, where each Notebook corresponds to a section within the tutorial articles. The notebooks are easily extensible to encourage experimentation. The intention is that you read a section of the tutorial and then complete the corresponding Notebook. The articles can be accessed via PDF via the links below.
 
 <table style="border:0px">
 <tr style="border:0px">
@@ -307,7 +307,7 @@ Please cite us if you use this work in your research, for Part I:
 @article{haviland2022dkt1,
   author={J. {Haviland} and P. {Corke}},
   title={Manipulator Differential Kinematics Part I: Kinematics, Velocity, and Applications},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2207.01796},
   year={2022}
 }
 ```
@@ -318,7 +318,7 @@ and for Part II:
 @article{haviland2022dkt2,
   author={J. {Haviland} and P. {Corke}},
   title={Manipulator Differential Kinematics Part II: Acceleration and Advanced Applications},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2207.01794},
   year={2022}
 }
 ```
