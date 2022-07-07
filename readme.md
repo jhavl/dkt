@@ -7,7 +7,7 @@
 
 **By Jesse Haviland and Peter Corke**
 
-This repository contains a collection of Jupyter Notebooks designed to accompany the two-part Tutorial on Manipulator Differential Kinematics, where each Notebook corresponds to a section within the tutorial articles. The notebooks are easily extensible to encourage experimentation. The intention is that you read a section of the tutorial and then complete the corresponding Notebook. The articles can be accessed via PDF or rendered as HTML as shown below.
+This repository contains a collection of Jupyter Notebooks designed to accompany the two-part Tutorial on Manipulator Differential Kinematics, where each Notebook corresponds to a section within the tutorial articles. The notebooks are easily extensible to encourage experimentation. The intention is that you read a section of the tutorial and then complete the corresponding Notebook. The articles can be accessed via PDF via the links below.
 
 <table style="border:0px">
 <tr style="border:0px">
