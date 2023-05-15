@@ -7,7 +7,7 @@
 
 **By Jesse Haviland and Peter Corke**
 
-This repository contains a collection of Jupyter Notebooks designed to accompany the two-part Tutorial on Manipulator Differential Kinematics, where each Notebook corresponds to a section within the tutorial articles. The notebooks are easily extensible to encourage experimentation. The intention is that you read a section of the tutorial and then complete the corresponding Notebook. The articles can be accessed via PDF via the links below.
+This repository contains a collection of Jupyter Notebooks designed to accompany the two-part Tutorial on Manipulator Differential Kinematics published in the IEEE Robotics and Automation Magazine. Each Notebook corresponds to a section within the tutorial articles. The notebooks are easily extensible to encourage experimentation. The intention is that you read a section of the tutorial and then complete the corresponding Notebook. The articles can be accessed via PDF via the links below.
 
 <table style="border:0px">
 <tr style="border:0px">
@@ -15,14 +15,14 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
         <a href="https://bit.ly/3P37X4v"><img src="https://github.com/jhavl/dkt/raw/main/img/article1.png" width="260"></a>
     </td>
     <td style="border:0px">
-        <b>Part I: Kinematics, Velocity, and Applications</b>
+        <b>Part 1: Kinematics, Velocity, and Applications</b>
         <ul>
-            <li>
-                <a href="https://bit.ly/3P37X4v">Access Article PDF from Arxiv </a>
-            </li>
             <!-- <li>
-                <a href="https://github.com/jhavl/TODO">Web Page Version of Article</a>
+                <a href="https://bit.ly/41MHPks">Access Published Article via IEEE Xplore </a>
             </li> -->
+            <li>
+                <a href="https://bit.ly/3P37X4v">Access Article Pre-print from Arxiv </a>
+            </li>
         </ul>
         <table>
             <tr>
@@ -88,14 +88,14 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
         <a href="https://bit.ly/3bPKu8v"><img src="https://github.com/jhavl/dkt/raw/main/img/article2.png" width="260"> </a>
     </td>
     <td style="border:0px">
-        <b>Part II: Acceleration and Advanced Applications</b>
+        <b>Part 2: Acceleration and Advanced Applications</b>
         <ul>
             <li>
-                <a href="https://bit.ly/3bPKu8v">Access Article PDF from Arxiv </a>
+                <a href="https://bit.ly/41MHPks">Access Published Article via IEEE Xplore </a>
             </li>
-            <!-- <li>
-                <a href="https://github.com/jhavl/TODO">Web Page Version of Article</a>
-            </li> -->
+            <li>
+                <a href="https://bit.ly/3bPKu8v">Access Article Pre-print from Arxiv </a>
+            </li>
         </ul>
         <table>
             <tr>
@@ -237,7 +237,7 @@ pip install ipython notebook
 Install the Robotics Toolbox for Python and associated packages. This will also install other requirements such as Swift and Spatialmath-Python.
 
 ```bash
-pip install "roboticstoolbox-python>=1.0.2"
+pip install "roboticstoolbox-python>=1.1.0"
 ```
 
 For Notebooks in Part II we need `sympy` and `qpsolvers`
@@ -285,7 +285,7 @@ From VSCode, select `Open Folder...` and navigate to and select the repository f
 
 After selecting the folder, choose which Notebook you would like to run from the Explorer menu on the left side of the screen.
 
-Once a Notebook is open, you must select the kernel from the `Select Kernel` button in the top right side of the screen. Choose the conda environment we created earlier `dktutorial (Python 3.10.X)`.
+Once a Notebook is open, you must select the kernel from the `Select Kernel` button on the top right side of the screen. Choose the conda environment we created earlier `dktutorial (Python 3.10.X)`.
 
 <br>
 
@@ -301,25 +301,29 @@ For the fastest and smoothest experience, it is recommended to run the Notebooks
 
 ## Citation Info
 
-Please cite us if you use this work in your research, for Part I:
+Please cite us if you use this work in your research, for Part 1:
 
 ```
-@article{haviland2022dkt1,
-  author={J. {Haviland} and P. {Corke}},
-  title={Manipulator Differential Kinematics Part I: Kinematics, Velocity, and Applications},
-  journal={arXiv preprint arXiv:2207.01796},
-  year={2022}
+@article{haviland2023dkt1,
+  author={Haviland, Jesse and Corke, Peter},
+  title={Manipulator Differential Kinematics: Part 1: Kinematics, Velocity, and Applications},
+  journal={IEEE Robotics & Automation Magazine}, 
+  year={2023},
+  pages={2-12},
+  doi={10.1109/MRA.2023.3270228}
 }
 ```
 
-and for Part II:
+and for Part 2:
 
 ```
-@article{haviland2022dkt2,
-  author={J. {Haviland} and P. {Corke}},
-  title={Manipulator Differential Kinematics Part II: Acceleration and Advanced Applications},
-  journal={arXiv preprint arXiv:2207.01794},
-  year={2022}
+@article{haviland2023dkt2,
+  author={Haviland, Jesse and Corke, Peter},
+  title={Manipulator Differential Kinematics: Part 2: Acceleration and Advanced Applications},
+  journal={IEEE Robotics & Automation Magazine}, 
+  year={2023},
+  pages={2-12},
+  doi={10.1109/MRA.2023.3270221}
 }
 ```
 
