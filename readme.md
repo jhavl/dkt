@@ -307,7 +307,7 @@ Please cite us if you use this work in your research, for Part 1:
 @article{haviland2023dkt1,
   author={Haviland, Jesse and Corke, Peter},
   title={Manipulator Differential Kinematics: Part 1: Kinematics, Velocity, and Applications},
-  journal={IEEE Robotics & Automation Magazine}, 
+  journal={IEEE Robotics \& Automation Magazine}, 
   year={2023},
   pages={2-12},
   doi={10.1109/MRA.2023.3270228}
@@ -320,7 +320,7 @@ and for Part 2:
 @article{haviland2023dkt2,
   author={Haviland, Jesse and Corke, Peter},
   title={Manipulator Differential Kinematics: Part 2: Acceleration and Advanced Applications},
-  journal={IEEE Robotics & Automation Magazine}, 
+  journal={IEEE Robotics \& Automation Magazine}, 
   year={2023},
   pages={2-12},
   doi={10.1109/MRA.2023.3270221}
