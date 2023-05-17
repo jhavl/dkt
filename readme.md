@@ -17,9 +17,9 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
     <td style="border:0px">
         <b>Part 1: Kinematics, Velocity, and Applications</b>
         <ul>
-            <!-- <li>
-                <a href="https://bit.ly/41MHPks">Access Published Article via IEEE Xplore </a>
-            </li> -->
+            <li>
+                <a href="https://bit.ly/42Zoxcr">Access Published Article via IEEE Xplore </a>
+            </li>
             <li>
                 <a href="https://bit.ly/3P37X4v">Access Article Pre-print from Arxiv </a>
             </li>
