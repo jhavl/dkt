@@ -21,7 +21,7 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
                 <a href="https://bit.ly/42Zoxcr">Access Published Article via IEEE Xplore </a>
             </li>
             <li>
-                <a href="https://bit.ly/3P37X4v">Access Article Pre-print from Arxiv </a>
+                <a href="https://bit.ly/3P37X4v">Access Article Preprint from Arxiv </a>
             </li>
         </ul>
         <table>
@@ -94,7 +94,7 @@ This repository contains a collection of Jupyter Notebooks designed to accompany
                 <a href="https://bit.ly/41MHPks">Access Published Article via IEEE Xplore </a>
             </li>
             <li>
-                <a href="https://bit.ly/3bPKu8v">Access Article Pre-print from Arxiv </a>
+                <a href="https://bit.ly/3bPKu8v">Access Article Preprint from Arxiv </a>
             </li>
         </ul>
         <table>
