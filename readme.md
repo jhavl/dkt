@@ -5,7 +5,7 @@
 [![QUT Centre for Robotics Open Source](https://github.com/qcr/qcr.github.io/raw/master/misc/badge.svg)](https://qcr.github.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**By Jesse Haviland and Peter Corke**
+**By [Jesse Haviland](https://jhavl.com/) and [Peter Corke](https://petercorke.com/)**
 
 This repository contains a collection of Jupyter Notebooks designed to accompany the two-part Tutorial on Manipulator Differential Kinematics published in the IEEE Robotics and Automation Magazine. Each Notebook corresponds to a section within the tutorial articles. The notebooks are easily extensible to encourage experimentation. The intention is that you read a section of the tutorial and then complete the corresponding Notebook. The articles can be accessed via PDF via the links below.
 
